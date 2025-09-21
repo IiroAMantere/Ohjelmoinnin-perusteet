@@ -1,0 +1,15 @@
+print("Hello World!")  
+print("Here we are")
+
+print("He said: 'Hello', and kept walking")
+print("He said: \"Hello\", and kept walking")
+
+ExampleString = "Text and Numbers"
+exampleInt = 12
+exampleFloat = 12.12
+exampleBoolean = False
+
+Firstname = input("What is your firstname: ")
+Lastname = input("What is your lastname: ")
+print("Hello " + Firstname, Lastname)
+
